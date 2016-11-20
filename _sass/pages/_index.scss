@@ -1,0 +1,58 @@
+html.main {
+  height: 100%;
+  body {
+    height: 100%;
+    color: #abb2bf;
+    background: #282c34;
+  }
+  .content {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    padding-left: 10%;
+    font-size: 21px;
+    @media screen and (max-width: 480px) {
+      font-size: 19px;
+    }
+  }
+  .lead {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.4;
+    @media screen and (max-width: 480px) {
+      font-size: 26px;
+    }
+  }
+  .link {
+    border-bottom: 2px solid #f07e2b;
+    color: #f07e2b;
+    text-decoration: none;
+
+    &__blog {
+      border-bottom-color: #f07e2b;
+      color: #f07e2b;
+    }
+
+    &__github {
+      border-bottom-color: #4078c0;
+      color: #4078c0;
+    }
+
+    &__twitter {
+      border-bottom-color: #59adeb;
+      color: #59adeb;
+    }
+
+    &__aviasales {
+      border-bottom-color: #1BA6D2;
+      color: #1BA6D2;
+    }
+
+    &__cv{
+      border-bottom-color: #a63cfc;
+      color: #a63cfc;
+    }
+
+  }
+}
