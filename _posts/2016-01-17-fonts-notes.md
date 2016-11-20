@@ -3,7 +3,6 @@ layout: post
 title:  "Заметки о шрифтах"
 date:   2016-01-17
 categories: frontend
-feature-img: "img/posts_headers/fonts-notes.jpg"
 ---
 За&nbsp;последний год вышло много инструментов и&nbsp;новых способов работы с&nbsp;веб-шрифтами. В&nbsp;качестве краткой справки и&nbsp;подведения итогов я&nbsp;решил написать эту небольшую заметку.
 
