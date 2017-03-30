@@ -41,11 +41,11 @@
       "endDate": "2017-03-27",
       "summary": "Aviasales/JetRadar is one of the largest services for searching and booking flights online all over the world. \n Developing a Jetradar infrastructure and make air travel more accessible.",
       "highlights": [
+        "Development of the search engine using Elixir programming language.",
         "Integration with number of GDS and airlines, such as Amadeus, TravelFusion, Myfarebox and others.",
         "Integration with variety of payment systems, such as Omise, Paypal, 7/11 and others.",
         "Full stack development of the service interface.",
         "Refactoring and rewriting large legacy project.",
-        "Development of the search engine using Elixir programming language.",
         "Building various marketing projects.",
         "Interviewing new developers for our team."
       ]
