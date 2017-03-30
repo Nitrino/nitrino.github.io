@@ -5,7 +5,7 @@ url: "http://nitrino.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Blog | Petr Stepchenko
+  title: Petr Stepchenko
   avatar:
   gravatar: # Email MD5 hash
   description: "Full-stack software developer" # used by search engines
