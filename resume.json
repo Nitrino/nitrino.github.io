@@ -39,15 +39,15 @@
       "website": "http://www.jetradar.com",
       "startDate": "2014-11-10",
       "endDate": "2017-03-27",
-      "summary": "Aviasales/JetRadar is one of the largest services for searching and booking flights online all over the world. \n Developing a Jetradar infrastructure and make air travel more accessible.",
+      "summary": "Aviasales/JetRadar is one of the largest worldwide travel websites which allows to search and book flights online. \n Developed Jetradar infrastructure and made air travel more affordable.",
       "highlights": [
         "Development of the search engine using Elixir programming language.",
         "Integration with number of GDS and airlines, such as Amadeus, TravelFusion, Myfarebox and others.",
-        "Integration with variety of payment systems, such as Omise, Paypal, 7/11 and others.",
-        "Full stack development of the service interface.",
+        "Integration with variety of payment systems, such as credit card payment channels, Paypal, cash payment channels and others.",
+        "Full stack development of the service including both backend and frontend",
         "Refactoring and rewriting large legacy project.",
         "Building various marketing projects.",
-        "Interviewing new developers for our team."
+        "Interviewed new developers for our team."
       ]
     },
     {
@@ -56,12 +56,12 @@
       "website": "http://en.poloniumarts.com/",
       "startDate": "2013-01-01",
       "endDate": "2014-11-01",
-      "summary": "Polonium Arts is an outsourcing company, which creates lots of customer oriented projects. \n Started as a junior developer, but a year later became a leading web developer in the company.",
+      "summary": "Polonium Arts is an outsourcing company, which creates lots of consumer-oriented projects. \n Started as a junior developer, but a year later became a leading web developer in the company.",
       "highlights": [
         "Build REST API for mobile projects.",
         "Build full stack and SPA applications",
         "Managed a small team of developers",
-        "Interviewing for new developers of our team."
+        "Interviewed for new developers of our team."
       ]
     }
   ],
