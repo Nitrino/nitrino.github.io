@@ -29,6 +29,11 @@
         "network": "FaceBook",
         "username": "pstepchenko",
         "url": ""
+      },
+      {
+        "network": "Telegram",
+        "username": "nitrodev",
+        "url": ""
       }
     ]
   },
