@@ -4,15 +4,15 @@
     "label": "Software Engineer",
     "picture": "",
     "email": "nitrinodev@gmail.com",
-    "phone": "+66 (91) 787-2458",
+    "phone": "+9 (920) 845-7152",
     "website": "http://nitrino.io",
     "summary": "",
     "location": {
-      "address": "135/186 Patak villa",
-      "postalCode": "83130",
-      "city": "Phuket",
-      "countryCode": "TH",
-      "region": "Chalong"
+      "address": "",
+      "postalCode": "241550",
+      "city": "",
+      "countryCode": "RU",
+      "region": "Bryansk"
     },
     "profiles": [
       {
@@ -104,6 +104,7 @@
       "keywords": [
         "PostgreSQL",
         "MySQL",
+        "Redis",
         "MongoDB"
       ]
     }
