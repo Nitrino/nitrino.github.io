@@ -43,6 +43,7 @@
       "position": "Software Engineer",
       "website": "http://hoodies.company",
       "startDate": "2017-06-15",
+      "endDate": "2017-10-05",
       "summary": "Hoodies is a team of web engineers that helps early stage startups and agencies to rapidly build remarkable technology.",
       "highlights": [
         "Web applications development using Ruby programming language."
@@ -96,7 +97,7 @@
   "skills": [
     {
       "name": "Main Programming languages",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
         "Ruby",
         "Elixir"
@@ -104,7 +105,7 @@
     },
     {
       "name": "Additional experience in programming languages",
-      "level": "Master",
+      "level": "Intermediate",
       "keywords": [
         "Python",
         "Golang",
@@ -115,7 +116,7 @@
 
     {
       "name": "Databases",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
         "PostgreSQL",
         "MySQL",
