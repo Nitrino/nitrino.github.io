@@ -8,11 +8,9 @@
     "website": "http://nitrino.io",
     "summary": "",
     "location": {
-      "address": "",
-      "postalCode": "241550",
-      "city": "",
+      "city": "Moscow",
       "countryCode": "RU",
-      "region": "Bryansk"
+      "region": "Russia"
     },
     "profiles": [
       {
@@ -39,11 +37,25 @@
   },
   "work": [
     {
+      "company": "Potok digital by Alfa-Bank",
+      "position": "Software Engineer",
+      "website": "https://business.potok.digital",
+      "startDate": "2017-11-13",
+      "endDate": "2018-04-22",
+      "summary": "Crowdfunding platform for loans to small business.",
+      "highlights": [
+        "Improving the high loaded parts of the project using the Elixir programming language.",
+        "Training teammates in the Elixir.",
+        "Project architecture design.",
+        "Setting up remote work processes in the company."
+      ]
+    },
+    {
       "company": "Hoodies",
       "position": "Software Engineer",
       "website": "http://hoodies.company",
       "startDate": "2017-06-15",
-      "endDate": "2017-10-05",
+      "endDate": "2017-11-05",
       "summary": "Hoodies is a team of web engineers that helps early stage startups and agencies to rapidly build remarkable technology.",
       "highlights": [
         "Web applications development using Ruby programming language."
@@ -97,7 +109,7 @@
   "skills": [
     {
       "name": "Main Programming languages",
-      "level": "Advanced",
+      "level": "master",
       "keywords": [
         "Ruby",
         "Elixir"
