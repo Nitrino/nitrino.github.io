@@ -1,3 +1,7 @@
 _site
 .sass-cache
 Gemfile.lock
+/resume.html
+/public
+/cv/.DS_Store
+/.DS_Store
