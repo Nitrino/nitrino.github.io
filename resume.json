@@ -37,6 +37,20 @@
   },
   "work": [
     {
+      "company": "ICOyard",
+      "position": "Software Engineer / Chief Technology Officer",
+      "website": "https://icoyard.io",
+      "startDate": "2018-01-01",
+      "summary": "Bookbuilding platform for ICO",
+      "highlights": [
+        "Project architecture design.",
+        "Planning of the company's technological development strategy.",
+        "Management and organization of work a small distributed development team.",
+        "Development of both backend and frontend parts of the application.",
+        "Integration of the project with cryptocurrency nodes and various payment services."
+      ]
+    },
+    {
       "company": "Potok digital by Alfa-Bank",
       "position": "Software Engineer",
       "website": "https://business.potok.digital",
