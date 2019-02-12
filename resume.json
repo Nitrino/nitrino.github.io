@@ -2,9 +2,7 @@
   "basics": {
     "name": "Petr Stepchenko",
     "label": "Software Engineer",
-    "picture": "",
     "email": "nitrinodev@gmail.com",
-    "phone": "+9 (920) 845-7152",
     "website": "http://nitrino.io",
     "summary": "",
     "location": {
@@ -37,10 +35,25 @@
   },
   "work": [
     {
+      "company": "QuickBlox",
+      "position": "Senior Software Engineer",
+      "website": "https://quickblox.com",
+      "startDate": "2018-08-01",
+      "summary": "We make it easy to add communication to your app. Chat/IM, Video calling and Push Notifications with SDKs.",
+      "highlights": [
+        "Development of the project using the Elixir programming language.",
+        "Training teammates in the Elixir language.",
+        "Project architecture design.",
+        "Setting up remote work processes in the company.",
+        "Support for the old legacy project written in Ruby."
+      ]
+    },
+    {
       "company": "ICOyard",
-      "position": "Software Engineer / Chief Technology Officer",
+      "position": "Chief Technology Officer",
       "website": "https://icoyard.io",
       "startDate": "2018-01-01",
+      "endDate": "2018-09-10",
       "summary": "Bookbuilding platform for ICO",
       "highlights": [
         "Project architecture design.",
@@ -52,7 +65,7 @@
     },
     {
       "company": "Potok digital by Alfa-Bank",
-      "position": "Software Engineer",
+      "position": "Senior Software Engineer",
       "website": "https://business.potok.digital",
       "startDate": "2017-11-13",
       "endDate": "2018-04-22",
@@ -66,7 +79,7 @@
     },
     {
       "company": "Hoodies",
-      "position": "Software Engineer",
+      "position": "Senior Software Engineer",
       "website": "http://hoodies.company",
       "startDate": "2017-06-15",
       "endDate": "2017-11-05",
@@ -125,8 +138,8 @@
       "name": "Main Programming languages",
       "level": "master",
       "keywords": [
-        "Ruby",
-        "Elixir"
+        "Elixir",
+        "Ruby"
       ]
     },
     {
@@ -134,9 +147,9 @@
       "level": "Intermediate",
       "keywords": [
         "Python",
-        "Golang",
-        "PHP",
-        "ES6-7"
+        "Go",
+        "JavaScript",
+        "Elm"
       ]
     },
 
