@@ -3,12 +3,12 @@
     "name": "Petr Stepchenko",
     "label": "Software Engineer",
     "email": "nitrinodev@gmail.com",
-    "website": "http://nitrino.io",
+    "website": "http://nitrino.dev",
     "summary": "",
     "location": {
-      "city": "Moscow",
-      "countryCode": "RU",
-      "region": "Russia"
+      "city": "Berlin",
+      "countryCode": "De",
+      "region": ""
     },
     "profiles": [
       {
@@ -128,41 +128,25 @@
       "startDate": "2008-09-01",
       "endDate": "2012-07-01",
       "gpa": "",
-      "courses": [
-        "M101 - MongoDB for Developers"
-      ]
+      "courses": ["M101 - MongoDB for Developers"]
     }
   ],
   "skills": [
     {
       "name": "Main Programming languages",
       "level": "master",
-      "keywords": [
-        "Elixir",
-        "Ruby"
-      ]
+      "keywords": ["Elixir", "Ruby"]
     },
     {
       "name": "Additional experience in programming languages",
       "level": "Intermediate",
-      "keywords": [
-        "Python",
-        "Go",
-        "JavaScript",
-        "Elm"
-      ]
+      "keywords": ["Python", "Go", "JavaScript", "Elm"]
     },
 
     {
       "name": "Databases",
       "level": "Advanced",
-      "keywords": [
-        "PostgreSQL",
-        "MySQL",
-        "Redis",
-        "ElasticSearch",
-        "MongoDB"
-      ]
+      "keywords": ["PostgreSQL", "MySQL", "Redis", "ElasticSearch", "MongoDB"]
     }
   ],
   "languages": [
