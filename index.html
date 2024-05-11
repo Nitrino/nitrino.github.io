@@ -10,12 +10,18 @@
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap"
       rel="stylesheet"
     />
+    <meta name="description" content="Petr Stepchenko home page" />
     <title>Petr Stepchenko</title>
   </head>
   <body>
-    <section class="main">
+    <main class="main">
       <div class="hello">
-        Hello <img src="assets/wave.png" alt="wave emoji" class="wave" /> I’m
+        Hello
+        <picture>
+          <source type="image/webp" srcset="assets/wave.webp" />
+          <source type="image/avif" srcset="assets/wave.avif" />
+          <img class="wave" src="assets/wave.png" alt="wave emoji" /> </picture
+        >I’m
       </div>
       <div class="name">Petr Stepchenko</div>
       <div class="socials">
@@ -26,6 +32,6 @@
         and&nbsp;explore&nbsp;my
         <a class="cv" href="cv.pdf" target="_blank">CV</a>
       </div>
-    </section>
+    </main>
   </body>
 </html>
