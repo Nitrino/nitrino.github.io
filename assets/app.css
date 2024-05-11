@@ -1,0 +1,88 @@
+body {
+  font-family: "Poppins", "SF Pro Display",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    "Roboto",
+    "Oxygen",
+    "Ubuntu",
+    "Cantarell",
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  background-color: #f5f7fc;
+  color: #041827;
+}
+
+a {
+  color: #041827;
+  text-underline-offset: 3px;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0%;
+  }
+
+  100% {
+    background-position: 100%;
+  }
+}
+
+.main {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.hello {
+  color: #adabba;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 0;
+}
+
+.wave {
+  width: 32px;
+  height: 32px;
+}
+
+.name {
+  font-weight: 600;
+  font-size: 48px;
+  -webkit-text-fill-color: transparent;
+  background: radial-gradient(circle, #A975F9 0%, #CE93D8 20%, #95e1ea 40%, #92da95 60%, #f8c06d 80%, #F48FB1 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-size: 400%;
+  animation: gradient 20s linear infinite alternate;
+}
+
+.position {
+  font-weight: 500;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.socials {
+  margin-top: 48px;
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .name {
+    font-size: 38px;
+  }
+
+  .socials {
+    max-width: 300px;
+  }
+}
